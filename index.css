@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled Web Page</title>
+    <link rel="stylesheet" href="style.css"> <!-- Linking external CSS -->
+</head>
+<body>
+
+    <header>
+        <h1 class="title">Welcome to My Styled Page</h1>
+    </header>
+
+    <section>
+        <p id="intro">This is a simple demonstration of linking an external CSS file and applying styles.</p>
+        <img src="https://via.placeholder.com/300" alt="Sample Image" class="styled-image">
+    </section>
+
+    <footer>
+        <p>Designed with 💙 by You</p>
+    </footer>
+
+</body>
+</html>
